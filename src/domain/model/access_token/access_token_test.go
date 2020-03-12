@@ -1,4 +1,4 @@
-package model
+package access_token
 
 import (
 	"github.com/stretchr/testify/assert"
